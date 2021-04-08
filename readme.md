@@ -13,6 +13,12 @@ Pull requests are more than welcome!
 
 In your pull request, include a __separate__ commit adding yourself to `contributors.md`.
 
+## Homebrew Install
+
+`brew install nickmorozov/spotify-notifications/cask`
+
+Or `brew tap nickmorozov/spotify-notifications` and then `brew install spotify-notifications`.
+
 ## Licenses
 
 ### Spotify Notifications
